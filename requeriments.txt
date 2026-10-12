@@ -1,0 +1,8 @@
+transformers==5.0.0
+datasets==2.19.0
+evaluate==0.4.0
+huggingface_hub==0.24.0
+accelerate==0.33.0
+numpy
+pandas
+torch
